@@ -1,0 +1,1484 @@
+[
+  {
+    "country_code": "AD",
+    "country_name": "Andorra",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ad.svg",
+    "country_code_alpha3": "AND"
+  },
+  {
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ae.svg",
+    "country_code_alpha3": "ARE"
+  },
+  {
+    "country_code": "AF",
+    "country_name": "Afghanistan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/af.svg",
+    "country_code_alpha3": "AFG"
+  },
+  {
+    "country_code": "AG",
+    "country_name": "Antigua and Barbuda",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ag.svg",
+    "country_code_alpha3": "ATG"
+  },
+  {
+    "country_code": "AI",
+    "country_name": "Anguilla",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ai.svg",
+    "country_code_alpha3": "AIA"
+  },
+  {
+    "country_code": "AL",
+    "country_name": "Albania",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/al.svg",
+    "country_code_alpha3": "ALB"
+  },
+  {
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/am.svg",
+    "country_code_alpha3": "ARM"
+  },
+  {
+    "country_code": "AO",
+    "country_name": "Angola",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ao.svg",
+    "country_code_alpha3": "AGO"
+  },
+  {
+    "country_code": "AQ",
+    "country_name": "Antarctica",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/aq.svg",
+    "country_code_alpha3": "ATA"
+  },
+  {
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ar.svg",
+    "country_code_alpha3": "ARG"
+  },
+  {
+    "country_code": "AS",
+    "country_name": "American Samoa",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/as.svg",
+    "country_code_alpha3": "ASM"
+  },
+  {
+    "country_code": "AT",
+    "country_name": "Austria",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/at.svg",
+    "country_code_alpha3": "AUT"
+  },
+  {
+    "country_code": "AU",
+    "country_name": "Heard Island and McDonald Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/au.svg",
+    "country_code_alpha3": "HMD"
+  },
+  {
+    "country_code": "AW",
+    "country_name": "Aruba",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/aw.svg",
+    "country_code_alpha3": "ABW"
+  },
+  {
+    "country_code": "AX",
+    "country_name": "Aland Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ax.svg",
+    "country_code_alpha3": "ALA"
+  },
+  {
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/az.svg",
+    "country_code_alpha3": "AZE"
+  },
+  {
+    "country_code": "BA",
+    "country_name": "Bosnia and Herzegovina",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ba.svg",
+    "country_code_alpha3": "BIH"
+  },
+  {
+    "country_code": "BB",
+    "country_name": "Barbados",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bb.svg",
+    "country_code_alpha3": "BRB"
+  },
+  {
+    "country_code": "BD",
+    "country_name": "Bangladesh",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bd.svg",
+    "country_code_alpha3": "BGD"
+  },
+  {
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/be.svg",
+    "country_code_alpha3": "BEL"
+  },
+  {
+    "country_code": "BF",
+    "country_name": "Burkina Faso",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bf.svg",
+    "country_code_alpha3": "BFA"
+  },
+  {
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bg.svg",
+    "country_code_alpha3": "BGR"
+  },
+  {
+    "country_code": "BH",
+    "country_name": "Bahrain",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bh.svg",
+    "country_code_alpha3": "BHR"
+  },
+  {
+    "country_code": "BI",
+    "country_name": "Burundi",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bi.svg",
+    "country_code_alpha3": "BDI"
+  },
+  {
+    "country_code": "BJ",
+    "country_name": "Benin",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bj.svg",
+    "country_code_alpha3": "BEN"
+  },
+  {
+    "country_code": "BL",
+    "country_name": "Saint Barthelemy",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bl.svg",
+    "country_code_alpha3": "BLM"
+  },
+  {
+    "country_code": "BM",
+    "country_name": "Bermuda",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bm.svg",
+    "country_code_alpha3": "BMU"
+  },
+  {
+    "country_code": "BN",
+    "country_name": "Brunei",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bn.svg",
+    "country_code_alpha3": "BRN"
+  },
+  {
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bo.svg",
+    "country_code_alpha3": "BOL"
+  },
+  {
+    "country_code": "BQ",
+    "country_name": "Bonaire, Saint Eustatius and Saba",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bq.svg",
+    "country_code_alpha3": "BES"
+  },
+  {
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/br.svg",
+    "country_code_alpha3": "BRA"
+  },
+  {
+    "country_code": "BS",
+    "country_name": "Bahamas, The",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bs.svg",
+    "country_code_alpha3": "BHS"
+  },
+  {
+    "country_code": "BT",
+    "country_name": "Bhutan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bt.svg",
+    "country_code_alpha3": "BTN"
+  },
+  {
+    "country_code": "BW",
+    "country_name": "Botswana",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bw.svg",
+    "country_code_alpha3": "BWA"
+  },
+  {
+    "country_code": "BY",
+    "country_name": "Belarus",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/by.svg",
+    "country_code_alpha3": "BLR"
+  },
+  {
+    "country_code": "BZ",
+    "country_name": "Belize",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/bz.svg",
+    "country_code_alpha3": "BLZ"
+  },
+  {
+    "country_code": "CA",
+    "country_name": "Canada",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ca.svg",
+    "country_code_alpha3": "CAN"
+  },
+  {
+    "country_code": "CC",
+    "country_name": "Cocos (Keeling) Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cc.svg",
+    "country_code_alpha3": "CCK"
+  },
+  {
+    "country_code": "CD",
+    "country_name": "Congo, Democratic Republic of The",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cd.svg",
+    "country_code_alpha3": "COD"
+  },
+  {
+    "country_code": "CF",
+    "country_name": "Central African Republic",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cf.svg",
+    "country_code_alpha3": "CAF"
+  },
+  {
+    "country_code": "CG",
+    "country_name": "Congo",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cg.svg",
+    "country_code_alpha3": "COG"
+  },
+  {
+    "country_code": "CH",
+    "country_name": "Switzerland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ch.svg",
+    "country_code_alpha3": "CHE"
+  },
+  {
+    "country_code": "CI",
+    "country_name": "Côte dʼIvoire",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ci.svg",
+    "country_code_alpha3": "CIV"
+  },
+  {
+    "country_code": "CK",
+    "country_name": "Cook Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ck.svg",
+    "country_code_alpha3": "COK"
+  },
+  {
+    "country_code": "CL",
+    "country_name": "Chile",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cl.svg",
+    "country_code_alpha3": "CHL"
+  },
+  {
+    "country_code": "CM",
+    "country_name": "Cameroon",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cm.svg",
+    "country_code_alpha3": "CMR"
+  },
+  {
+    "country_code": "CN",
+    "country_name": "China",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cn.svg",
+    "country_code_alpha3": "CHN"
+  },
+  {
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/co.svg",
+    "country_code_alpha3": "COL"
+  },
+  {
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cr.svg",
+    "country_code_alpha3": "CRI"
+  },
+  {
+    "country_code": "CU",
+    "country_name": "Cuba",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cu.svg",
+    "country_code_alpha3": "CUB"
+  },
+  {
+    "country_code": "CV",
+    "country_name": "Cape Verde",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cv.svg",
+    "country_code_alpha3": "CPV"
+  },
+  {
+    "country_code": "CW",
+    "country_name": "Curacao",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cw.svg",
+    "country_code_alpha3": "CUW"
+  },
+  {
+    "country_code": "CX",
+    "country_name": "Christmas Island",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cx.svg",
+    "country_code_alpha3": "CXR"
+  },
+  {
+    "country_code": "CY",
+    "country_name": "Cyprus",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cy.svg",
+    "country_code_alpha3": "CYP"
+  },
+  {
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/cz.svg",
+    "country_code_alpha3": "CZE"
+  },
+  {
+    "country_code": "DE",
+    "country_name": "Germany",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/de.svg",
+    "country_code_alpha3": "DEU"
+  },
+  {
+    "country_code": "DJ",
+    "country_name": "Djibouti",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/dj.svg",
+    "country_code_alpha3": "DJI"
+  },
+  {
+    "country_code": "DK",
+    "country_name": "Denmark",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/dk.svg",
+    "country_code_alpha3": "DNK"
+  },
+  {
+    "country_code": "DM",
+    "country_name": "Dominica",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/dm.svg",
+    "country_code_alpha3": "DMA"
+  },
+  {
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/do.svg",
+    "country_code_alpha3": "DOM"
+  },
+  {
+    "country_code": "DZ",
+    "country_name": "Algeria",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/dz.svg",
+    "country_code_alpha3": "DZA"
+  },
+  {
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ec.svg",
+    "country_code_alpha3": "ECU"
+  },
+  {
+    "country_code": "EE",
+    "country_name": "Estonia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ee.svg",
+    "country_code_alpha3": "EST"
+  },
+  {
+    "country_code": "EG",
+    "country_name": "Egypt",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/eg.svg",
+    "country_code_alpha3": "EGY"
+  },
+  {
+    "country_code": "EH",
+    "country_name": "Western Sahara",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/eh.svg",
+    "country_code_alpha3": "ESH"
+  },
+  {
+    "country_code": "ER",
+    "country_name": "Eritrea",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/er.svg",
+    "country_code_alpha3": "ERI"
+  },
+  {
+    "country_code": "ES",
+    "country_name": "Spain",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/es.svg",
+    "country_code_alpha3": "ESP"
+  },
+  {
+    "country_code": "ET",
+    "country_name": "Ethiopia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/et.svg",
+    "country_code_alpha3": "ETH"
+  },
+  {
+    "country_code": "FI",
+    "country_name": "Finland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/fi.svg",
+    "country_code_alpha3": "FIN"
+  },
+  {
+    "country_code": "FJ",
+    "country_name": "Fiji",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/fj.svg",
+    "country_code_alpha3": "FJI"
+  },
+  {
+    "country_code": "FK",
+    "country_name": "Falkland Islands (Islas Malvinas)",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/fk.svg",
+    "country_code_alpha3": "FLK"
+  },
+  {
+    "country_code": "FM",
+    "country_name": "Micronesia, Federated States of",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/fm.svg",
+    "country_code_alpha3": "FSM"
+  },
+  {
+    "country_code": "FO",
+    "country_name": "Faroe Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/fo.svg",
+    "country_code_alpha3": "FRO"
+  },
+  {
+    "country_code": "FR",
+    "country_name": "France",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/fr.svg",
+    "country_code_alpha3": "FRA"
+  },
+  {
+    "country_code": "GA",
+    "country_name": "Gabon",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ga.svg",
+    "country_code_alpha3": "GAB"
+  },
+  {
+    "country_code": "GB",
+    "country_name": "United Kingdom",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gb.svg",
+    "country_code_alpha3": "GBR"
+  },
+  {
+    "country_code": "GD",
+    "country_name": "Grenada",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gd.svg",
+    "country_code_alpha3": "GRD"
+  },
+  {
+    "country_code": "GE",
+    "country_name": "Georgia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ge.svg",
+    "country_code_alpha3": "GEO"
+  },
+  {
+    "country_code": "GF",
+    "country_name": "French Guiana",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gf.svg",
+    "country_code_alpha3": "GUF"
+  },
+  {
+    "country_code": "GG",
+    "country_name": "Guernsey",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gg.svg",
+    "country_code_alpha3": "GGY"
+  },
+  {
+    "country_code": "GH",
+    "country_name": "Ghana",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gh.svg",
+    "country_code_alpha3": "GHA"
+  },
+  {
+    "country_code": "GI",
+    "country_name": "Gibraltar",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gi.svg",
+    "country_code_alpha3": "GIB"
+  },
+  {
+    "country_code": "GL",
+    "country_name": "Greenland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gl.svg",
+    "country_code_alpha3": "GRL"
+  },
+  {
+    "country_code": "GM",
+    "country_name": "Gambia, The",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gm.svg",
+    "country_code_alpha3": "GMB"
+  },
+  {
+    "country_code": "GN",
+    "country_name": "Guinea",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gn.svg",
+    "country_code_alpha3": "GIN"
+  },
+  {
+    "country_code": "GP",
+    "country_name": "Guadeloupe",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gp.svg",
+    "country_code_alpha3": "GLP"
+  },
+  {
+    "country_code": "GQ",
+    "country_name": "Equatorial Guinea",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gq.svg",
+    "country_code_alpha3": "GNQ"
+  },
+  {
+    "country_code": "GR",
+    "country_name": "Greece",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gr.svg",
+    "country_code_alpha3": "GRC"
+  },
+  {
+    "country_code": "GS",
+    "country_name": "South Georgia and The South Sandwich Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gs.svg",
+    "country_code_alpha3": "SGS"
+  },
+  {
+    "country_code": "GT",
+    "country_name": "Guatemala",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gt.svg",
+    "country_code_alpha3": "GTM"
+  },
+  {
+    "country_code": "GU",
+    "country_name": "Guam",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gu.svg",
+    "country_code_alpha3": "GUM"
+  },
+  {
+    "country_code": "GW",
+    "country_name": "Guinea-Bissau",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gw.svg",
+    "country_code_alpha3": "GNB"
+  },
+  {
+    "country_code": "GY",
+    "country_name": "Guyana",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/gy.svg",
+    "country_code_alpha3": "GUY"
+  },
+  {
+    "country_code": "HK",
+    "country_name": "Hong Kong",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/hk.svg",
+    "country_code_alpha3": "HKG"
+  },
+  {
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/hn.svg",
+    "country_code_alpha3": "HND"
+  },
+  {
+    "country_code": "HR",
+    "country_name": "Croatia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/hr.svg",
+    "country_code_alpha3": "HRV"
+  },
+  {
+    "country_code": "HT",
+    "country_name": "Haiti",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ht.svg",
+    "country_code_alpha3": "HTI"
+  },
+  {
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/hu.svg",
+    "country_code_alpha3": "HUN"
+  },
+  {
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/id.svg",
+    "country_code_alpha3": "IDN"
+  },
+  {
+    "country_code": "IE",
+    "country_name": "Ireland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ie.svg",
+    "country_code_alpha3": "IRL"
+  },
+  {
+    "country_code": "IL",
+    "country_name": "Israel",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/il.svg",
+    "country_code_alpha3": "ISR"
+  },
+  {
+    "country_code": "IM",
+    "country_name": "Isle of Man",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/im.svg",
+    "country_code_alpha3": "IMN"
+  },
+  {
+    "country_code": "IN",
+    "country_name": "India",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/in.svg",
+    "country_code_alpha3": "IND"
+  },
+  {
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/iq.svg",
+    "country_code_alpha3": "IRQ"
+  },
+  {
+    "country_code": "IR",
+    "country_name": "Iran",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ir.svg",
+    "country_code_alpha3": "IRN"
+  },
+  {
+    "country_code": "IS",
+    "country_name": "Iceland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/is.svg",
+    "country_code_alpha3": "ISL"
+  },
+  {
+    "country_code": "IT",
+    "country_name": "Italy",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/it.svg",
+    "country_code_alpha3": "ITA"
+  },
+  {
+    "country_code": "JE",
+    "country_name": "Jersey",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/je.svg",
+    "country_code_alpha3": "JEY"
+  },
+  {
+    "country_code": "JM",
+    "country_name": "Jamaica",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/jm.svg",
+    "country_code_alpha3": "JAM"
+  },
+  {
+    "country_code": "JO",
+    "country_name": "Jordan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/jo.svg",
+    "country_code_alpha3": "JOR"
+  },
+  {
+    "country_code": "JP",
+    "country_name": "Japan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/jp.svg",
+    "country_code_alpha3": "JPN"
+  },
+  {
+    "country_code": "KE",
+    "country_name": "Kenya",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ke.svg",
+    "country_code_alpha3": "KEN"
+  },
+  {
+    "country_code": "KG",
+    "country_name": "Kyrgyzstan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kg.svg",
+    "country_code_alpha3": "KGZ"
+  },
+  {
+    "country_code": "KH",
+    "country_name": "Cambodia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kh.svg",
+    "country_code_alpha3": "KHM"
+  },
+  {
+    "country_code": "KI",
+    "country_name": "Kiribati",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ki.svg",
+    "country_code_alpha3": "KIR"
+  },
+  {
+    "country_code": "KM",
+    "country_name": "Comoros",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/km.svg",
+    "country_code_alpha3": "COM"
+  },
+  {
+    "country_code": "KN",
+    "country_name": "Saint Kitts and Nevis",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kn.svg",
+    "country_code_alpha3": "KNA"
+  },
+  {
+    "country_code": "KP",
+    "country_name": "North Korea",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kp.svg",
+    "country_code_alpha3": "PRK"
+  },
+  {
+    "country_code": "KR",
+    "country_name": "South Korea",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kr.svg",
+    "country_code_alpha3": "KOR"
+  },
+  {
+    "country_code": "KW",
+    "country_name": "Kuwait",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kw.svg",
+    "country_code_alpha3": "KWT"
+  },
+  {
+    "country_code": "KY",
+    "country_name": "Cayman Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ky.svg",
+    "country_code_alpha3": "CYM"
+  },
+  {
+    "country_code": "KZ",
+    "country_name": "Kazakhstan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/kz.svg",
+    "country_code_alpha3": "KAZ"
+  },
+  {
+    "country_code": "LA",
+    "country_name": "Laos",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/la.svg",
+    "country_code_alpha3": "LAO"
+  },
+  {
+    "country_code": "LB",
+    "country_name": "Lebanon",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lb.svg",
+    "country_code_alpha3": "LBN"
+  },
+  {
+    "country_code": "LC",
+    "country_name": "Saint Lucia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lc.svg",
+    "country_code_alpha3": "LCA"
+  },
+  {
+    "country_code": "LI",
+    "country_name": "Liechtenstein",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/li.svg",
+    "country_code_alpha3": "LIE"
+  },
+  {
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lk.svg",
+    "country_code_alpha3": "LKA"
+  },
+  {
+    "country_code": "LR",
+    "country_name": "Liberia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lr.svg",
+    "country_code_alpha3": "LBR"
+  },
+  {
+    "country_code": "LS",
+    "country_name": "Lesotho",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ls.svg",
+    "country_code_alpha3": "LSO"
+  },
+  {
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lt.svg",
+    "country_code_alpha3": "LTU"
+  },
+  {
+    "country_code": "LU",
+    "country_name": "Luxembourg",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lu.svg",
+    "country_code_alpha3": "LUX"
+  },
+  {
+    "country_code": "LV",
+    "country_name": "Latvia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/lv.svg",
+    "country_code_alpha3": "LVA"
+  },
+  {
+    "country_code": "LY",
+    "country_name": "Libya",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ly.svg",
+    "country_code_alpha3": "LBY"
+  },
+  {
+    "country_code": "MA",
+    "country_name": "Morocco",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ma.svg",
+    "country_code_alpha3": "MAR"
+  },
+  {
+    "country_code": "MC",
+    "country_name": "Monaco",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mc.svg",
+    "country_code_alpha3": "MCO"
+  },
+  {
+    "country_code": "MD",
+    "country_name": "Moldova, Republic of",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/md.svg",
+    "country_code_alpha3": "MDA"
+  },
+  {
+    "country_code": "ME",
+    "country_name": "Montenegro",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/me.svg",
+    "country_code_alpha3": "MNE"
+  },
+  {
+    "country_code": "MF",
+    "country_name": "Saint Martin",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mf.svg",
+    "country_code_alpha3": "MAF"
+  },
+  {
+    "country_code": "MG",
+    "country_name": "Madagascar",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mg.svg",
+    "country_code_alpha3": "MDG"
+  },
+  {
+    "country_code": "MH",
+    "country_name": "Marshall Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mh.svg",
+    "country_code_alpha3": "MHL"
+  },
+  {
+    "country_code": "MK",
+    "country_name": "Macedonia, The Former Yugoslav Republic of",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mk.svg",
+    "country_code_alpha3": "MKD"
+  },
+  {
+    "country_code": "ML",
+    "country_name": "Mali",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ml.svg",
+    "country_code_alpha3": "MLI"
+  },
+  {
+    "country_code": "MM",
+    "country_name": "Myanmar",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mm.svg",
+    "country_code_alpha3": "MMR"
+  },
+  {
+    "country_code": "MN",
+    "country_name": "Mongolia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mn.svg",
+    "country_code_alpha3": "MNG"
+  },
+  {
+    "country_code": "MO",
+    "country_name": "Macau",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mo.svg",
+    "country_code_alpha3": "MAC"
+  },
+  {
+    "country_code": "MP",
+    "country_name": "Northern Mariana Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mp.svg",
+    "country_code_alpha3": "MNP"
+  },
+  {
+    "country_code": "MQ",
+    "country_name": "Martinique",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mq.svg",
+    "country_code_alpha3": "MTQ"
+  },
+  {
+    "country_code": "MR",
+    "country_name": "Mauritania",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mr.svg",
+    "country_code_alpha3": "MRT"
+  },
+  {
+    "country_code": "MS",
+    "country_name": "Montserrat",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ms.svg",
+    "country_code_alpha3": "MSR"
+  },
+  {
+    "country_code": "MT",
+    "country_name": "Malta",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mt.svg",
+    "country_code_alpha3": "MLT"
+  },
+  {
+    "country_code": "MU",
+    "country_name": "Mauritius",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mu.svg",
+    "country_code_alpha3": "MUS"
+  },
+  {
+    "country_code": "MV",
+    "country_name": "Maldives",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mv.svg",
+    "country_code_alpha3": "MDV"
+  },
+  {
+    "country_code": "MW",
+    "country_name": "Malawi",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mw.svg",
+    "country_code_alpha3": "MWI"
+  },
+  {
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mx.svg",
+    "country_code_alpha3": "MEX"
+  },
+  {
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/my.svg",
+    "country_code_alpha3": "MYS"
+  },
+  {
+    "country_code": "MZ",
+    "country_name": "Mozambique",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/mz.svg",
+    "country_code_alpha3": "MOZ"
+  },
+  {
+    "country_code": "NA",
+    "country_name": "Namibia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/na.svg",
+    "country_code_alpha3": "NAM"
+  },
+  {
+    "country_code": "NC",
+    "country_name": "New Caledonia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/nc.svg",
+    "country_code_alpha3": "NCL"
+  },
+  {
+    "country_code": "NE",
+    "country_name": "Niger",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ne.svg",
+    "country_code_alpha3": "NER"
+  },
+  {
+    "country_code": "NF",
+    "country_name": "Norfolk Island",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/nf.svg",
+    "country_code_alpha3": "NFK"
+  },
+  {
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ng.svg",
+    "country_code_alpha3": "NGA"
+  },
+  {
+    "country_code": "NI",
+    "country_name": "Nicaragua",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ni.svg",
+    "country_code_alpha3": "NIC"
+  },
+  {
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/nl.svg",
+    "country_code_alpha3": "NLD"
+  },
+  {
+    "country_code": "NO",
+    "country_name": "Jan Mayen",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/no.svg",
+    "country_code_alpha3": "SJM"
+  },
+  {
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/np.svg",
+    "country_code_alpha3": "NPL"
+  },
+  {
+    "country_code": "NR",
+    "country_name": "Nauru",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/nr.svg",
+    "country_code_alpha3": "NRU"
+  },
+  {
+    "country_code": "NU",
+    "country_name": "Niue",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/nu.svg",
+    "country_code_alpha3": "NIU"
+  },
+  {
+    "country_code": "NZ",
+    "country_name": "New Zealand",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/nz.svg",
+    "country_code_alpha3": "NZL"
+  },
+  {
+    "country_code": "OM",
+    "country_name": "Oman",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/om.svg",
+    "country_code_alpha3": "OMN"
+  },
+  {
+    "country_code": "PA",
+    "country_name": "Panama",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pa.svg",
+    "country_code_alpha3": "PAN"
+  },
+  {
+    "country_code": "PE",
+    "country_name": "Peru",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pe.svg",
+    "country_code_alpha3": "PER"
+  },
+  {
+    "country_code": "PF",
+    "country_name": "French Polynesia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pf.svg",
+    "country_code_alpha3": "PYF"
+  },
+  {
+    "country_code": "PG",
+    "country_name": "Papua New Guinea",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pg.svg",
+    "country_code_alpha3": "PNG"
+  },
+  {
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ph.svg",
+    "country_code_alpha3": "PHL"
+  },
+  {
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pk.svg",
+    "country_code_alpha3": "PAK"
+  },
+  {
+    "country_code": "PL",
+    "country_name": "Poland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pl.svg",
+    "country_code_alpha3": "POL"
+  },
+  {
+    "country_code": "PM",
+    "country_name": "Saint Pierre and Miquelon",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pm.svg",
+    "country_code_alpha3": "SPM"
+  },
+  {
+    "country_code": "PN",
+    "country_name": "Pitcairn Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pn.svg",
+    "country_code_alpha3": "PCN"
+  },
+  {
+    "country_code": "PR",
+    "country_name": "Puerto Rico",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pr.svg",
+    "country_code_alpha3": "PRI"
+  },
+  {
+    "country_code": "PS",
+    "country_name": "Palestine, State of",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ps.svg",
+    "country_code_alpha3": "PSE"
+  },
+  {
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pt.svg",
+    "country_code_alpha3": "PRT"
+  },
+  {
+    "country_code": "PW",
+    "country_name": "Palau",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/pw.svg",
+    "country_code_alpha3": "PLW"
+  },
+  {
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/py.svg",
+    "country_code_alpha3": "PRY"
+  },
+  {
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/qa.svg",
+    "country_code_alpha3": "QAT"
+  },
+  {
+    "country_code": "RE",
+    "country_name": "Reunion",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/re.svg",
+    "country_code_alpha3": "REU"
+  },
+  {
+    "country_code": "RO",
+    "country_name": "Romania",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ro.svg",
+    "country_code_alpha3": "ROU"
+  },
+  {
+    "country_code": "RS",
+    "country_name": "Serbia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/rs.svg",
+    "country_code_alpha3": "SRB"
+  },
+  {
+    "country_code": "RU",
+    "country_name": "Russia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ru.svg",
+    "country_code_alpha3": "RUS"
+  },
+  {
+    "country_code": "RW",
+    "country_name": "Rwanda",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/rw.svg",
+    "country_code_alpha3": "RWA"
+  },
+  {
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sa.svg",
+    "country_code_alpha3": "SAU"
+  },
+  {
+    "country_code": "SB",
+    "country_name": "Solomon Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sb.svg",
+    "country_code_alpha3": "SLB"
+  },
+  {
+    "country_code": "SC",
+    "country_name": "Seychelles",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sc.svg",
+    "country_code_alpha3": "SYC"
+  },
+  {
+    "country_code": "SD",
+    "country_name": "Sudan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sd.svg",
+    "country_code_alpha3": "SDN"
+  },
+  {
+    "country_code": "SE",
+    "country_name": "Sweden",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/se.svg",
+    "country_code_alpha3": "SWE"
+  },
+  {
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sg.svg",
+    "country_code_alpha3": "SGP"
+  },
+  {
+    "country_code": "SH",
+    "country_name": "Saint Helena",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sh.svg",
+    "country_code_alpha3": "SHN"
+  },
+  {
+    "country_code": "SI",
+    "country_name": "Slovenia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/si.svg",
+    "country_code_alpha3": "SLB"
+  },
+  {
+    "country_code": "SJ",
+    "country_name": "Svalbard and Jan Mayen",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sj.svg",
+    "country_code_alpha3": "SJM"
+  },
+  {
+    "country_code": "SK",
+    "country_name": "Slovakia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sk.svg",
+    "country_code_alpha3": "SVK"
+  },
+  {
+    "country_code": "SL",
+    "country_name": "Sierra Leone",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sl.svg",
+    "country_code_alpha3": "SLE"
+  },
+  {
+    "country_code": "SM",
+    "country_name": "San Marino",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sm.svg",
+    "country_code_alpha3": "SMR"
+  },
+  {
+    "country_code": "SN",
+    "country_name": "Senegal",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sn.svg",
+    "country_code_alpha3": "SEN"
+  },
+  {
+    "country_code": "SO",
+    "country_name": "Somalia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/so.svg",
+    "country_code_alpha3": "SOM"
+  },
+  {
+    "country_code": "SR",
+    "country_name": "Suriname",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sr.svg",
+    "country_code_alpha3": "SUR"
+  },
+  {
+    "country_code": "SS",
+    "country_name": "South Sudan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ss.svg",
+    "country_code_alpha3": "SSD"
+  },
+  {
+    "country_code": "ST",
+    "country_name": "Sao Tome and Príncipe",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/st.svg",
+    "country_code_alpha3": "STP"
+  },
+  {
+    "country_code": "SV",
+    "country_name": "El Salvador",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sv.svg",
+    "country_code_alpha3": "SLV"
+  },
+  {
+    "country_code": "SX",
+    "country_name": "Sint Maarten",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sx.svg",
+    "country_code_alpha3": "SXM"
+  },
+  {
+    "country_code": "SY",
+    "country_name": "Syria",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sy.svg",
+    "country_code_alpha3": "SYR"
+  },
+  {
+    "country_code": "SZ",
+    "country_name": "Swaziland",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/sz.svg",
+    "country_code_alpha3": "SWZ"
+  },
+  {
+    "country_code": "TC",
+    "country_name": "Turks and Caicos Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tc.svg",
+    "country_code_alpha3": "TCA"
+  },
+  {
+    "country_code": "TD",
+    "country_name": "Chad",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/td.svg",
+    "country_code_alpha3": "TCD"
+  },
+  {
+    "country_code": "TF",
+    "country_name": "French Southern Territories",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tf.svg",
+    "country_code_alpha3": "ATF"
+  },
+  {
+    "country_code": "TG",
+    "country_name": "Togo",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tg.svg",
+    "country_code_alpha3": "TGO"
+  },
+  {
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/th.svg",
+    "country_code_alpha3": "THA"
+  },
+  {
+    "country_code": "TJ",
+    "country_name": "Tajikistan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tj.svg",
+    "country_code_alpha3": "TJK"
+  },
+  {
+    "country_code": "TK",
+    "country_name": "Tokelau",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tk.svg",
+    "country_code_alpha3": "TKL"
+  },
+  {
+    "country_code": "TL",
+    "country_name": "Timor-Leste",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tl.svg",
+    "country_code_alpha3": "TLS"
+  },
+  {
+    "country_code": "TM",
+    "country_name": "Turkmenistan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tm.svg",
+    "country_code_alpha3": "TKM"
+  },
+  {
+    "country_code": "TN",
+    "country_name": "Tunisia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tn.svg",
+    "country_code_alpha3": "TUN"
+  },
+  {
+    "country_code": "TO",
+    "country_name": "Tonga",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/to.svg",
+    "country_code_alpha3": "TON"
+  },
+  {
+    "country_code": "TR",
+    "country_name": "Turkey",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tr.svg",
+    "country_code_alpha3": "TUR"
+  },
+  {
+    "country_code": "TT",
+    "country_name": "Trinidad and Tobago",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tt.svg",
+    "country_code_alpha3": "TTO"
+  },
+  {
+    "country_code": "TV",
+    "country_name": "Tuvalu",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tv.svg",
+    "country_code_alpha3": "TUV"
+  },
+  {
+    "country_code": "TW",
+    "country_name": "Taiwan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tw.svg",
+    "country_code_alpha3": "TWN"
+  },
+  {
+    "country_code": "TZ",
+    "country_name": "Tanzania",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/tz.svg",
+    "country_code_alpha3": "TZA"
+  },
+  {
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ua.svg",
+    "country_code_alpha3": "UKR"
+  },
+  {
+    "country_code": "UG",
+    "country_name": "Uganda",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ug.svg",
+    "country_code_alpha3": "UGA"
+  },
+  {
+    "country_code": "US",
+    "country_name": "United States",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/us.svg",
+    "country_code_alpha3": "USA"
+  },
+  {
+    "country_code": "UM",
+    "country_name": "United States Minor Outlying Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/um.svg",
+    "country_code_alpha3": "UMI"
+  },
+  {
+    "country_code": "UY",
+    "country_name": "Uruguay",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/uy.svg",
+    "country_code_alpha3": "URY"
+  },
+  {
+    "country_code": "UZ",
+    "country_name": "Uzbekistan",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/uz.svg",
+    "country_code_alpha3": "UZB"
+  },
+  {
+    "country_code": "VA",
+    "country_name": "Vatican City",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/va.svg",
+    "country_code_alpha3": "VAT"
+  },
+  {
+    "country_code": "VC",
+    "country_name": "Saint Vincent and The Grenadines",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/vc.svg",
+    "country_code_alpha3": "VCT"
+  },
+  {
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ve.svg",
+    "country_code_alpha3": "VEN"
+  },
+  {
+    "country_code": "VG",
+    "country_name": "British Virgin Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/vg.svg",
+    "country_code_alpha3": "VGB"
+  },
+  {
+    "country_code": "VI",
+    "country_name": "Virgin Islands",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/vi.svg",
+    "country_code_alpha3": "VIR"
+  },
+  {
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/vn.svg",
+    "country_code_alpha3": "VNM"
+  },
+  {
+    "country_code": "VU",
+    "country_name": "Vanuatu",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/vu.svg",
+    "country_code_alpha3": "VUT"
+  },
+  {
+    "country_code": "WF",
+    "country_name": "Wallis and Futuna",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/wf.svg",
+    "country_code_alpha3": "WLF"
+  },
+  {
+    "country_code": "WS",
+    "country_name": "Samoa",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ws.svg",
+    "country_code_alpha3": "WSM"
+  },
+  {
+    "country_code": "XK",
+    "country_name": "Kosovo",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/xk.svg",
+    "country_code_alpha3": "XKX"
+  },
+  {
+    "country_code": "YE",
+    "country_name": "Yemen",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/ye.svg",
+    "country_code_alpha3": "YEM"
+  },
+  {
+    "country_code": "YT",
+    "country_name": "Mayotte",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/yt.svg",
+    "country_code_alpha3": "MYT"
+  },
+  {
+    "country_code": "ZA",
+    "country_name": "South Africa",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/za.svg",
+    "country_code_alpha3": "ZAF"
+  },
+  {
+    "country_code": "ZM",
+    "country_name": "Zambia",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/zm.svg",
+    "country_code_alpha3": "ZMB"
+  },
+  {
+    "country_code": "ZW",
+    "country_name": "Zimbabwe",
+    "country_flag": "https://jaacker25.github.io/world-data/country-flags/svg/zw.svg",
+    "country_code_alpha3": "ZWE"
+  }
+]
